@@ -4,7 +4,10 @@
 * Uses GSAP for smooth animations between two cards
 * Each card expands on hover while hiding the other card
 
+Please initialize with the latest GSAP library
+
 */
+
 
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
 
